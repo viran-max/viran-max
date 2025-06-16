@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me 
 - ⚡ Fun fact: I am always ready to code when I want to sleep
 
 <!---
