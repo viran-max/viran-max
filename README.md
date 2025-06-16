@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am always ready to code when I want to sleep
 
 <!---
