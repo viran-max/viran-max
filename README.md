@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viran-max
-- 👀 I’m interested in Data science
+- 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on github
 - ⚡ Fun fact: I am always ready to code when I want to sleep
