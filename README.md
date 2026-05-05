@@ -1,5 +1,21 @@
-# 💫 About Me:
-If it doesn’t make sense, I rebuild it until it does.<br><br> <br><br>I build things that work—but more importantly, I build things I understand.  <br><br>Most people move on once their code runs. I don’t. If something feels unclear, I slow down, question it, and reconstruct it until the logic is simple enough to explain without hiding behind complexity.  <br><br>I’m currently working deeply with JavaScript, not just to use it, but to understand how it behaves under the surface—so I can build without guesswork. My focus is on creating systems that are clean, predictable, and actually make sense.  <br><br>-  Building real projects that reflect understanding > not repetition  <br>-  Breaking down concepts until they’re clear enough to stay  <br>-  Reworking fundamentals to remove hidden confusion  <br><br>I’m not interested in writing more code.  <br>I’m interested in writing code that holds up under questions.  
+# 💫 About Me
+If it doesn’t make sense, I rebuild it until it does.
+
+### Hello, I'm Viran
+
+I’m currently focused on backend development, building systems that are reliable, predictable, and logically clear.
+
+I don’t move forward with code until I understand what’s happening underneath. If something feels unclear, I question it, break it down, and rebuild it until the logic holds without confusion.
+
+This approach is the foundation I’m using to move toward AI/ML, where understanding systems matters more than just using them.
+
+- Building backend projects that reflect understanding, not repetition  
+- Breaking down concepts until they’re simple enough to stay  
+- Reworking fundamentals to remove hidden confusion  
+- Choosing depth and clarity over speed and shortcuts  
+
+I’m not trying to learn everything at once.  
+I’m building a base strong enough to support what comes next.
 
 
 ## 🌐 Socials:
